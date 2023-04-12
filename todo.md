@@ -1,0 +1,6 @@
+- Do some automated tests in python
+- Do some automated tests in go
+- Write a basic front end using next that routes the backend through the FE
+- Try out tailwind
+- Make a list backend in go
+- Make a list backend in python
